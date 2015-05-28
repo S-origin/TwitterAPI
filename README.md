@@ -1,2 +1,0 @@
-# TwitterAPI
-Sang Tran
